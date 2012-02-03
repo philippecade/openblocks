@@ -50,14 +50,9 @@ public class PageDrawerLoadingUtils {
         return null;
     }
 
-    public static boolean getBooleanValue(Node node, String nodeKey) {
-        String bool = getNodeValue(node, nodeKey);
-        if (bool != null) {
-            if (bool.equals("no")) {
-                return false;
-            }
-        }
-        return true;
+    public static boolean getBooleanValue(final Node node, final String nodeKey) {
+        final String bool = getNodeValue(node, nodeKey);
+        return bool == null || !"no".equals(bool);
     }
 
     private static int getIntValue(Node node, String nodeKey) {
