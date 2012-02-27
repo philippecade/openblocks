@@ -34,5 +34,6 @@ In order of first appearance on commit logs:
 * The original MIT team: Eric Klopfer, Daniel Wendel, Ricarose Roque, Corey McCaffrey, Lunduo Ye, Aidan Ho, Brett Warne, Xudan Liu, Hout Nga
 * Mikael Gueck (https://github.com/mikaelhg)
 * David Li (https://github.com/taweili)
-* Philippe Cade (https://github.com/philippecade)
+* Philippe Cadé (https://github.com/philippecade)
 * Tony Graham / MenteaXML (https://github.com/MenteaXML)
+* Laurent Shall (https://github.com/laurentschall)
